@@ -19,24 +19,6 @@ export default defineConfig({
       preset: past,
     },
     {
-      title: 'Backers',
-      preset: tierPresets.small,
-    },
-    {
-      title: 'Sponsors',
-      monthlyDollars: 10,
-      preset: {
-        avatar: {
-          size: 42,
-        },
-        boxWidth: 52,
-        boxHeight: 52,
-        container: {
-          sidePadding: 30,
-        },
-      }
-    },
-    {
       title: '晨光赞助人',
       monthlyDollars: 5,
       preset: tierPresets.xs,
