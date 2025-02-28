@@ -8,20 +8,6 @@ export default defineConfig({
       preset: past,
     },
     {
-      title: 'Sponsors',
-      monthlyDollars: 10,
-      preset: {
-        avatar: {
-          size: 42,
-        },
-        boxWidth: 52,
-        boxHeight: 52,
-        container: {
-          sidePadding: 30,
-        },
-      }
-    },
-    {
       title: '晨光赞助人',
       monthlyDollars: 30,
       preset: tierPresets.xs,
