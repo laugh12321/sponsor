@@ -1,26 +1,11 @@
-import { BadgePreset, defineConfig, tierPresets } from 'sponsorkit'
-
-const past: BadgePreset = {
-  avatar: {
-    size: 20,
-  },
-  boxWidth: 22,
-  boxHeight: 22,
-  container: {
-    sidePadding: 35,
-  },
-}
+import { defineConfig, tierPresets } from 'sponsorkit'
 
 export default defineConfig({
   tiers: [
     {
-      title: 'Past Sponsors',
+      title: '历史赞助',
       monthlyDollars: -1,
       preset: past,
-    },
-    {
-      title: 'Backers',
-      preset: tierPresets.small,
     },
     {
       title: 'Sponsors',
@@ -38,12 +23,12 @@ export default defineConfig({
     },
     {
       title: '晨光赞助人',
-      monthlyDollars: 5,
+      monthlyDollars: 30,
       preset: tierPresets.xs,
     },
     {
       title: '造型赞助人',
-      monthlyDollars: 15,
+      monthlyDollars: 30,
       preset: tierPresets.small,
     },
     {
@@ -53,17 +38,17 @@ export default defineConfig({
     },
     {
       title: '明眸赞助人',
-      monthlyDollars: 50,
+      monthlyDollars: 30,
       preset: tierPresets.medium,
     },
     {
       title: '元气赞助人',
-      monthlyDollars: 80,
+      monthlyDollars: 30,
       preset: tierPresets.large,
     },
     {
       title: '光影赞助人',
-      monthlyDollars: 100,
+      monthlyDollars: 30,
       preset: tierPresets.xl,
     },
   ]
