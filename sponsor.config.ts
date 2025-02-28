@@ -37,23 +37,34 @@ export default defineConfig({
       }
     },
     {
-      title: 'Silver Sponsors',
+      title: '晨光赞助人',
+      monthlyDollars: 5,
+      preset: tierPresets.xs,
+    },
+    {
+      title: '造型赞助人',
+      monthlyDollars: 15,
+      preset: tierPresets.small,
+    },
+    {
+      title: '形象赞助人',
+      monthlyDollars: 30,
+      preset: tierPresets.base,
+    },
+    {
+      title: '明眸赞助人',
       monthlyDollars: 50,
       preset: tierPresets.medium,
     },
     {
-      title: 'Gold Sponsors',
-      monthlyDollars: 100,
+      title: '元气赞助人',
+      monthlyDollars: 80,
       preset: tierPresets.large,
     },
     {
-      title: 'Platinum Sponsors',
-      monthlyDollars: 500,
+      title: '光影赞助人',
+      monthlyDollars: 100,
       preset: tierPresets.xl,
-    },
-    {
-      title: 'Special Sponsor',
-      monthlyDollars: Infinity,
     },
   ]
 })
