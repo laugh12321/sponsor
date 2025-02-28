@@ -9,27 +9,27 @@ export default defineConfig({
     },
     {
       title: '晨光赞助人',
-      monthlyDollars: 30,
+      monthlyDollars: 10,
       preset: tierPresets.xs,
     },
     {
       title: '造型赞助人',
-      monthlyDollars: 30,
+      monthlyDollars: 12,
       preset: tierPresets.small,
     },
     {
       title: '形象赞助人',
-      monthlyDollars: 30,
+      monthlyDollars: 13,
       preset: tierPresets.base,
     },
     {
       title: '明眸赞助人',
-      monthlyDollars: 30,
+      monthlyDollars: 14,
       preset: tierPresets.medium,
     },
     {
       title: '元气赞助人',
-      monthlyDollars: 30,
+      monthlyDollars: 15,
       preset: tierPresets.large,
     },
     {
