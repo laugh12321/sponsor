@@ -23,8 +23,9 @@ jobs:
       - name: Update sponsors
         run: npm run build
         env:
-          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
-          SPONSORKIT_GITHUB_LOGIN: # your GitHub username
+          SPONSORKIT_AFDIAN_USER_ID: ${{ secrets.SPONSORKIT_AFDIAN_USER_ID }}
+          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+          SPONSORKIT_AFDIAN_EXECHANGERATE: ${{ secrets.SPONSORKIT_AFDIAN_EXECHANGERATE }}
 
       - name: Commit
         uses: EndBug/add-and-commit@v9
