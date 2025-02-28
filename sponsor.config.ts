@@ -1,22 +1,20 @@
-import { BadgePreset, defineConfig, tierPresets } from 'sponsorkit'
-
-const past: BadgePreset = {
-  avatar: {
-    size: 20,
-  },
-  boxWidth: 22,
-  boxHeight: 22,
-  container: {
-    sidePadding: 35,
-  },
-}
+import { defineConfig, tierPresets } from 'sponsorkit'
 
 export default defineConfig({
   tiers: [
     {
       title: '历史赞助',
       monthlyDollars: -1,
-      preset: past,
+      preset: {
+        avatar: {
+          size: 20,
+        },
+        boxWidth: 22,
+        boxHeight: 22,
+        container: {
+          sidePadding: 30,
+        },
+      }
     },
     {
       title: '晨光赞助人',
