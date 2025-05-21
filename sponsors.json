@@ -11610,7 +11610,7 @@
         ]
       }
     },
-    "monthlyDollars": 80,
+    "monthlyDollars": 100,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-04-30T06:41:02.000Z",
@@ -11621,15 +11621,15 @@
       "sponsor_plans": [
         {
           "can_ali_agreement": 0,
-          "plan_id": "27b8d388e4f711efb73152540025c377",
+          "plan_id": "271721fae4f711ef924952540025c377",
           "rank": 0,
           "user_id": "6b14f846515e11ef801f5254001e7c00",
           "status": 1,
-          "name": "精神加油站⚡",
-          "pic": "https://pic1.afdiancdn.com/user/6b14f846515e11ef801f5254001e7c00/common/4aa4e76c0c0c3f3bced2bd02052dcfa2_w600_h600_s82.png",
-          "desc": "💆 感谢您犒劳作者保持最佳状态  \n🍱 资金将转化为每周能量补给套餐\n🌟 您的名字和头像将会出现在项目的鸣谢列表中，成为特别鸣谢的“元气赞助人”\n💬 您将获得项目专属讨论群的邀请，与作者和其他支持者交流互动\n🚀 您的问题或建议将获得作者的优先响应，确保您的需求得到快速处理\n✨ 您将获得项目新版本的优先体验权，提前感受新功能带来的便利\n🛠️ 您将获得一次免费的远程支持，作者将协助您配置项目运行所需的环境，确保您顺利使用项目",
-          "price": "80.00",
-          "update_time": 1738896081,
+          "name": "光影捕手📷",
+          "pic": "https://pic1.afdiancdn.com/user/6b14f846515e11ef801f5254001e7c00/common/5aa051ce84233f0cbe121cd66d8b5b6f_w600_h600_s98.png",
+          "desc": "🎞️ 感谢您助力创作设备升级  \n📹 赞助将投入专业相机采购基金  \n🌟 您的名字和头像将会出现在项目的鸣谢列表中，成为特别鸣谢的“光影赞助人”\n💬 您将获得项目专属讨论群的邀请，与作者和其他支持者交流互动\n🚀 您的问题或建议将获得作者的优先响应，确保您的需求得到快速处理\n✨ 您将获得项目新版本的优先体验权，提前感受新功能带来的便利\n🛠️ 您将获得一次免费的远程支持，作者将协助您配置项目运行所需的环境，确保您顺利使用项目\n🔧 您将获得一次免费的技术支持机会，作者将协助您解决使用项目时遇到的问题",
+          "price": "100.00",
+          "update_time": 1740705433,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -11637,7 +11637,7 @@
             "timing_sell_off": 0
           },
           "pay_month": 1,
-          "show_price": "80.00",
+          "show_price": "100.00",
           "show_price_after_adjust": "",
           "has_coupon": 0,
           "coupon": [],
@@ -11661,15 +11661,15 @@
       ],
       "current_plan": {
         "can_ali_agreement": 0,
-        "plan_id": "27b8d388e4f711efb73152540025c377",
+        "plan_id": "271721fae4f711ef924952540025c377",
         "rank": 0,
         "user_id": "6b14f846515e11ef801f5254001e7c00",
         "status": 1,
-        "name": "精神加油站⚡",
-        "pic": "https://pic1.afdiancdn.com/user/6b14f846515e11ef801f5254001e7c00/common/4aa4e76c0c0c3f3bced2bd02052dcfa2_w600_h600_s82.png",
-        "desc": "💆 感谢您犒劳作者保持最佳状态  \n🍱 资金将转化为每周能量补给套餐\n🌟 您的名字和头像将会出现在项目的鸣谢列表中，成为特别鸣谢的“元气赞助人”\n💬 您将获得项目专属讨论群的邀请，与作者和其他支持者交流互动\n🚀 您的问题或建议将获得作者的优先响应，确保您的需求得到快速处理\n✨ 您将获得项目新版本的优先体验权，提前感受新功能带来的便利\n🛠️ 您将获得一次免费的远程支持，作者将协助您配置项目运行所需的环境，确保您顺利使用项目",
-        "price": "80.00",
-        "update_time": 1738896081,
+        "name": "光影捕手📷",
+        "pic": "https://pic1.afdiancdn.com/user/6b14f846515e11ef801f5254001e7c00/common/5aa051ce84233f0cbe121cd66d8b5b6f_w600_h600_s98.png",
+        "desc": "🎞️ 感谢您助力创作设备升级  \n📹 赞助将投入专业相机采购基金  \n🌟 您的名字和头像将会出现在项目的鸣谢列表中，成为特别鸣谢的“光影赞助人”\n💬 您将获得项目专属讨论群的邀请，与作者和其他支持者交流互动\n🚀 您的问题或建议将获得作者的优先响应，确保您的需求得到快速处理\n✨ 您将获得项目新版本的优先体验权，提前感受新功能带来的便利\n🛠️ 您将获得一次免费的远程支持，作者将协助您配置项目运行所需的环境，确保您顺利使用项目\n🔧 您将获得一次免费的技术支持机会，作者将协助您解决使用项目时遇到的问题",
+        "price": "100.00",
+        "update_time": 1740705433,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -11677,7 +11677,7 @@
           "timing_sell_off": 0
         },
         "pay_month": 1,
-        "show_price": "80.00",
+        "show_price": "100.00",
         "show_price_after_adjust": "",
         "has_coupon": 0,
         "coupon": [],
@@ -11698,9 +11698,9 @@
         "sku_processed": [],
         "rankType": 1
       },
-      "all_sum_amount": "80.00",
+      "all_sum_amount": "100.00",
       "first_pay_time": 1745995262,
-      "last_pay_time": 1745995262,
+      "last_pay_time": 1747724192,
       "user": {
         "user_id": "1680b4cceaac11efa0315254001e7c00",
         "name": "wahaha",
