@@ -71622,26 +71622,13 @@
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2026-01-07T13:50:11.000Z",
-    "isOneTime": true,
+    "isOneTime": false,
     "provider": "afdian",
     "raw": {
-      "sponsor_plans": [
-        {
-          "name": "自选方案",
-          "plan_id": "",
-          "price": "50.00",
-          "expire_time": 1773072000,
-          "sku_processed": [],
-          "rankType": 40
-        }
-      ],
+      "sponsor_plans": [],
       "current_plan": {
-        "name": "自选方案",
-        "plan_id": "",
-        "price": "50.00",
-        "expire_time": null,
-        "sku_processed": [],
-        "rankType": 40
+        "name": "",
+        "expire_time": null
       },
       "all_sum_amount": "100.00",
       "first_pay_time": 1767793811,
