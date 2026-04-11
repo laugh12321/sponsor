@@ -3,7 +3,7 @@
   "scripts": {
     "build": "sh build.sh"
   },
-  "devDependencies": {
-    "sponsorkit": "0.7.0"
+  "dependencies": {
+    "sponsorkit": "7.0.0"
   }
 }
